@@ -1,0 +1,7 @@
+Loopback Cli
+============
+
+Run
+===
+
+docker-compose run cli lb
